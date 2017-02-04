@@ -1,0 +1,2 @@
+This file is created on win7£¬to test submit file from TortoiseGit to GitHub¡£
+This is a NEW file try to test submit file to GitHub¡£
